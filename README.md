@@ -23,4 +23,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/aanilkumarreddy/leetcode/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/aanilkumarreddy/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
