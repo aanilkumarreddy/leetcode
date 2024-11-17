@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [3194-find-words-containing-character](https://github.com/aanilkumarreddy/leetcode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aanilkumarreddy/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aanilkumarreddy/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -18,4 +19,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aanilkumarreddy/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/aanilkumarreddy/leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
