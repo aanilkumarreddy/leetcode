@@ -1,5 +1,5 @@
 function interpret(command: string): string {
 
-return command.replaceAll('()', 'o').replaceAll('(','').replaceAll(')','');
+    return command.split("()").join("o").split("(al)").join("al");
 
 };
